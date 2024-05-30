@@ -4,6 +4,7 @@ public class SwapNumber
 	public static void main(String[] args)
 	{
 		SwapNumber(3,5);
+		System.out.println("Test");
 	}
 	
 	public static void SwapNumber(int i, int j)
